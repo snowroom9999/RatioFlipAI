@@ -1,0 +1,5 @@
+{
+  "name": "RatioFlip AI",
+  "description": "Transform landscape 16:9 images into stunning 9:16 portrait masterpieces using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
